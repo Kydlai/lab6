@@ -1,0 +1,32 @@
+<collection>
+	<dragon>
+		<name>qweqwe</name>
+		<age>123213</age>
+		<description>qawdq</description>
+		<DragonType>air</DragonType>
+		<DragonCharacter>wise</DragonCharacter>
+		<DragonHead>
+			<size>123123</size>
+			<eyesCount>123213.0</eyesCount>
+		</DragonHead>
+		<Coordinates>
+			<x>21321.0</x>
+			<y>123213.0</y>
+		</Coordinates>
+	</dragon>
+	<dragon>
+		<name>name</name>
+		<age>12</age>
+		<description>aka47</description>
+		<DragonType>air</DragonType>
+		<DragonCharacter>wise</DragonCharacter>
+		<DragonHead>
+			<size>21</size>
+			<eyesCount>21.0</eyesCount>
+		</DragonHead>
+		<Coordinates>
+			<x>21.0</x>
+			<y>421.0</y>
+		</Coordinates>
+	</dragon>
+</collection>
